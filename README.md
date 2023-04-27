@@ -46,7 +46,7 @@ Helena,02/09/1996,2799.93,Gerente
 
 ## Para rodar o projeto
 
-É necessário ter o jdk-11 instalado.
+É necessário ter o jdk-11 instalado. Rode no terminal com: `java -jar ./Company.jar`
 
 Utilize Eclipse IDE para rodar o projeto.
 
@@ -150,4 +150,5 @@ Miguel
 ----------------------------------------------------------------
 
 ```
+
 ---

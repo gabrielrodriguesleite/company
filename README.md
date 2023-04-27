@@ -48,4 +48,106 @@ Helena,02/09/1996,2799.93,Gerente
 
 É necessário ter o jdk-11 instalado.
 
+Utilize Eclipse IDE para rodar o projeto.
+
+O resultado será algo parecido com isso:
+
+```sh
+----------------------------------------------------------------
+      Nome   Data Nascimento   R$   Salário            Função
+     Maria        18/10/2000   R$  2.009,44          Operador
+      João        12/05/1990   R$  2.284,38          Operador
+      Caio        02/05/1961   R$  9.836,14       Coordenador
+    Miguel        14/10/1988   R$ 19.119,88           Diretor
+     Alice        05/01/1995   R$  2.234,68     Recepcionista
+    Heitor        19/11/1999   R$  1.582,72          Operador
+    Arthur        31/03/1993   R$  4.071,84          Contador
+     Laura        08/07/1994   R$  3.017,45           Gerente
+   Heloísa        24/05/2003   R$  1.606,85       Eletricista
+    Helena        02/09/1996   R$  2.799,93           Gerente
+----------------------------------------------------------------
+----------------------------------------------------------------
+      Nome   Data Nascimento   R$   Salário            Função
+     Maria        18/10/2000   R$  2.009,44          Operador
+      Caio        02/05/1961   R$  9.836,14       Coordenador
+    Miguel        14/10/1988   R$ 19.119,88           Diretor
+     Alice        05/01/1995   R$  2.234,68     Recepcionista
+    Heitor        19/11/1999   R$  1.582,72          Operador
+    Arthur        31/03/1993   R$  4.071,84          Contador
+     Laura        08/07/1994   R$  3.017,45           Gerente
+   Heloísa        24/05/2003   R$  1.606,85       Eletricista
+    Helena        02/09/1996   R$  2.799,93           Gerente
+----------------------------------------------------------------
+----------------------------------------------------------------
+      Nome   Data Nascimento   R$   Salário            Função
+     Maria        18/10/2000   R$  2.210,38          Operador
+      Caio        02/05/1961   R$ 10.819,75       Coordenador
+    Miguel        14/10/1988   R$ 21.031,87           Diretor
+     Alice        05/01/1995   R$  2.458,15     Recepcionista
+    Heitor        19/11/1999   R$  1.740,99          Operador
+    Arthur        31/03/1993   R$  4.479,02          Contador
+     Laura        08/07/1994   R$  3.319,20           Gerente
+   Heloísa        24/05/2003   R$  1.767,54       Eletricista
+    Helena        02/09/1996   R$  3.079,92           Gerente
+----------------------------------------------------------------
+----------------------------------------------------------------
+      Nome   Data Nascimento
+      Caio        02/05/1961
+----------------------------------------------------------------
+----------------------------------------------------------------
+      Nome   Data Nascimento     Salários            Função
+     Maria        18/10/2000         1.82          Operador
+      Caio        02/05/1961         8.93       Coordenador
+    Miguel        14/10/1988        17.35           Diretor
+     Alice        05/01/1995         2.03     Recepcionista
+    Heitor        19/11/1999         1.44          Operador
+    Arthur        31/03/1993         3.70          Contador
+     Laura        08/07/1994         2.74           Gerente
+   Heloísa        24/05/2003         1.46       Eletricista
+    Helena        02/09/1996         2.54           Gerente
+----------------------------------------------------------------
+----------------------------------------------------------------
+Total dos salários
+    R$ 50.906,82
+----------------------------------------------------------------
+----------------------------------------------------------------
+Funcionários aniversariantes dos meses [OCTOBER, DECEMBER]:
+Maria
+Miguel
+----------------------------------------------------------------
+----------------------------------------------------------------
+      Nome   Data Nascimento   R$   Salário            Função
+     Alice        05/01/1995   R$  2.458,15     Recepcionista
+    Arthur        31/03/1993   R$  4.479,02          Contador
+      Caio        02/05/1961   R$ 10.819,75       Coordenador
+    Heitor        19/11/1999   R$  1.740,99          Operador
+    Helena        02/09/1996   R$  3.079,92           Gerente
+   Heloísa        24/05/2003   R$  1.767,54       Eletricista
+     Laura        08/07/1994   R$  3.319,20           Gerente
+     Maria        18/10/2000   R$  2.210,38          Operador
+    Miguel        14/10/1988   R$ 21.031,87           Diretor
+----------------------------------------------------------------
+----------------------------------------------------------------
+      Nome   Data Nascimento   R$   Salário            Função
+     Maria        18/10/2000   R$  2.210,38          Operador
+      Caio        02/05/1961   R$ 10.819,75       Coordenador
+    Miguel        14/10/1988   R$ 21.031,87           Diretor
+     Alice        05/01/1995   R$  2.458,15     Recepcionista
+    Heitor        19/11/1999   R$  1.740,99          Operador
+    Arthur        31/03/1993   R$  4.479,02          Contador
+     Laura        08/07/1994   R$  3.319,20           Gerente
+   Heloísa        24/05/2003   R$  1.767,54       Eletricista
+    Helena        02/09/1996   R$  3.079,92           Gerente
+----------------------------------------------------------------
+----------------------------------------------------------------
+       Operador:       Maria      Heitor 
+  Recepcionista:       Alice 
+    Eletricista:     Heloísa 
+        Diretor:      Miguel 
+        Gerente:       Laura      Helena 
+    Coordenador:        Caio 
+       Contador:      Arthur 
+----------------------------------------------------------------
+
+```
 ---

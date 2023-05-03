@@ -48,6 +48,10 @@ Helena,02/09/1996,2799.93,Gerente
 
 É necessário ter o jdk-11 instalado.
 
+Clone o repositório: `git clone git@github.com:gabrielrodriguesleite/company.git`
+
+Mude para a pasta do projeto: `cd company`
+
 Rode no terminal com: `java -jar ./Company.jar`
 
 Ou utilize `Eclipse IDE` para rodar o projeto.
